@@ -3,7 +3,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: CaldEagle <caldwellaustin6@yahoo.com>
 Filename: /com.liquidweb.fluid.deb
-Size: 2238800
+Size: 1555612
 MD5sum: 60183EAA01166CC2422CD8845106F50A
 SHA1: 7B0A164491746DB133944BF6D45687F52BB5C2CB
 SHA256: 1949BD00AC7791F9FE74FFA13D37D2F5D5B6D32BE4749DBE74D8701AE2843F22
@@ -11,3 +11,4 @@ Section: Themes
 Description: Theme for iOS 12+
 Author: CaldEagle
 Name: Fluid
+
