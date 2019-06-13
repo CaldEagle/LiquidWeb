@@ -11,3 +11,18 @@ Section: Themes
 Description: iOS 12+ theme
 Author: CaldEagle <caldwellaustin6@yahoo.com>
 Name: Fluid
+Package: com.liquidweb.fluid
+
+Package: com.cotomovies.crack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CaldEagle <caldwellaustin6@yahoo.com>
+Filename: /CotoMovies.deb
+Size: 7578968
+MD5sum: 423ae6e410dbe6d1eabc06387783f74e
+SHA1: 0e11cb7bf8f85eb1f43f2cef7f6e668c5ba8b999
+SHA256: 9554958b193846a446294c86432ce543f8fd47e60dff5b2355d2e2e55431a941
+Section: Media
+Description: Movie and TV show streaming
+Author: CaldEagle <caldwellaustin6@yahoo.com>
+Name: Coto Movies
