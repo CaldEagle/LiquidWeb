@@ -11,7 +11,6 @@ Section: Themes
 Description: iOS 12+ theme
 Author: CaldEagle <caldwellaustin6@yahoo.com>
 Name: Fluid
-Package: com.liquidweb.fluid
 
 Package: com.cotomovies.crack
 Version: 1.0
