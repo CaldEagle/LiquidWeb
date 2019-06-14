@@ -2,7 +2,7 @@ Package: com.liquidweb.fluid
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: CaldEagle <caldwellaustin6@yahoo.com>
-Filename: /com.liquidweb.fluid.deb
+Filename: /debs/com.liquidweb.fluid.deb
 Size: 1555612
 MD5sum: 60183eaa01166cc2422cd8845106f50a
 SHA1: 7b0a164491746db133944bf6d45687f52bb5c2cb
@@ -12,16 +12,17 @@ Description: iOS 12+ theme
 Author: CaldEagle <caldwellaustin6@yahoo.com>
 Name: Fluid
 
-Package: com.cotomovies.crack
+Package: com.liquidweb.cotomovies
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CaldEagle <caldwellaustin6@yahoo.com>
-Filename: /CotoMovies.deb
-Size: 7578968
-MD5sum: 423ae6e410dbe6d1eabc06387783f74e
-SHA1: 0e11cb7bf8f85eb1f43f2cef7f6e668c5ba8b999
-SHA256: 9554958b193846a446294c86432ce543f8fd47e60dff5b2355d2e2e55431a941
+Filename: /debs/com.liquidweb.cotomovies.deb
+Size: 7579968
+MD5sum: 2a54026eb00d5c0cc8e9fadbf89f5028
+SHA1: 34d73d5fef3b3fffebe62b2ce87736af9daecab1
+SHA256: 22afdf990925d522f775978bc72a4bad7aa946e0c9d2d641846ec8ba7e0bfe7c
 Section: Media
-Description: Movie and TV show streaming
-Author: CaldEagle <caldwellaustin6@yahoo.com>
+Description: Streaming for Movies and TV shows
+Author: CotoMovies
 Name: Coto Movies
+
