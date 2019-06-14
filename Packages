@@ -17,12 +17,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CaldEagle <caldwellaustin6@yahoo.com>
 Filename: /debs/com.liquidweb.cotomovies.deb
-Size: 7579968
-MD5sum: 2a54026eb00d5c0cc8e9fadbf89f5028
-SHA1: 34d73d5fef3b3fffebe62b2ce87736af9daecab1
-SHA256: 22afdf990925d522f775978bc72a4bad7aa946e0c9d2d641846ec8ba7e0bfe7c
+Size: 7578704
+MD5sum: a1713c387dc24744fd7595b328bf57c8
+SHA1: 530e9dfc839e1b3ccb1bbca612808dba8e415a9a
+SHA256: 0024465319cc8d52984a35064ef278c66091004bd413578d1a616bf2b3b5ec78
 Section: Media
 Description: Streaming for Movies and TV shows
 Author: CotoMovies
-Name: Coto Movies
-
+Name: CotoMovies
