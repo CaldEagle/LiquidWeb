@@ -26,3 +26,16 @@ Description: No Ads and Bypass Ad Limit Tracking On Coto Movies
 Author: SarahH12099
 Name: Coto Movies Addon
 
+Package: com.liquidweb.magmapro
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: CaldEagle <caldwellaustin6@yahoo.com>
+Filename: /debs/com.liquidweb.magmapro.deb
+Size: 49608
+MD5sum: 04e41fb53bb044c26087ae9956c73f4f
+SHA1: 834c3708102f53087b0a3239a691437d335906b0
+SHA256: 6c747de91f70f809dadb340efa45cc7191e7a80439021a385e04b627e7e88247
+Section: Tweaks
+Description: Customize your Control Center
+Author: NoisyFlake
+Name: Magma Pro
