@@ -13,15 +13,16 @@ Author: CaldEagle <caldwellaustin6@yahoo.com>
 Name: Fluid
 
 Package: com.liquidweb.cotomovies
-Version: 1.0
+Version: 1.0.0.4
 Architecture: iphoneos-arm
 Maintainer: CaldEagle <caldwellaustin6@yahoo.com>
 Filename: /debs/com.liquidweb.cotomovies.deb
-Size: 7578704
-MD5sum: a1713c387dc24744fd7595b328bf57c8
-SHA1: 530e9dfc839e1b3ccb1bbca612808dba8e415a9a
-SHA256: 0024465319cc8d52984a35064ef278c66091004bd413578d1a616bf2b3b5ec78
+Size: 3420
+MD5sum: 7c116491e59402f4723c5a3016659835
+SHA1: 57f112c91ccdc3f32ca99ce7c04da315d31ec805
+SHA256: 4c0f85e3f2bd1af247e41c7b9293e323e3dcd64386446aeb6c4ec3af3badd40d
 Section: Media
-Description: Streaming for Movies and TV shows
-Author: CotoMovies
-Name: CotoMovies
+Description: No Ads and Bypass Ad Limit Tracking On Coto Movies
+Author: SarahH12099
+Name: Coto Movies Addon
+
